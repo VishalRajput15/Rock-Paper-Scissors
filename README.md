@@ -1,1 +1,2 @@
 # Rock-Paper-Scissors
+This is a simple yet engaging Rock Paper Scissors game built with HTML, CSS, and JavaScript. Players can challenge the computer in this classic game, with a user-friendly interface and interactive gameplay. The project showcases fundamental programming concepts and is a great way to practice web development skills. Feel free to explore the code and customize it to your liking!
